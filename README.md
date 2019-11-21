@@ -1,5 +1,5 @@
 # node-callback-api
-This one is the sample project created for learning purpose. Using Node.js Callbacks.
+This one is the sample project created for learning purpose using Node.js Callbacks.
 
 
 Install
